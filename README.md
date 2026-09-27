@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<p align="center">
+  <strong>Hi there 👋/strong>
+</p>
 
 <p align="center">
   <strong>VIBE CODER FINAL BOSS</strong>
