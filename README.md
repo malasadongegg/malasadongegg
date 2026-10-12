@@ -9,4 +9,6 @@
 
 <p align="center">
   <img src="https://trackhour-seven.vercel.app/api/card?u=malasadongegg" width="600" alt="My AI playtime" />
+  <p align="center">
+  <img src="https://chaim.cloud/092632274" width="600" alt="My AI playtime" />
 </p>
